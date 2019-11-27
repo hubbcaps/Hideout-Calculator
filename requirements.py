@@ -181,7 +181,7 @@ if state["nutrition_unit"] >= 1:
     phase_relay -= 2
 
 if state["nutrition_unit"] >= 2:
-    wrench -= 2
+    wrench -= 4
     hose -= 2
     alkaline -= 2
     phase_relay -= 1
@@ -189,6 +189,7 @@ if state["nutrition_unit"] >= 2:
 if state["nutrition_unit"] >= 3:
     coffee -= 3
     sodium -= 3
+    roubles -= 125000
 
 
 if state["rest_space"] >= 1:
@@ -200,12 +201,12 @@ if state["rest_space"] >= 2:
 if state["rest_space"] >= 3:
     power_cord -= 4
     capacitors -= 5
-    wires -= 5
+    wires -= 7
     dollars -= 3000
 
 
 if state["scav_case"] >= 1:
-    bronze_lion -= 2
+    lion -= 2
     skull_ring -= 2
     gold_chain -= 6
     roler -= 3
