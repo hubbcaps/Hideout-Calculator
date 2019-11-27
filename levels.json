@@ -1,0 +1,22 @@
+{
+  "air_filtering_unit":0,
+  "bitcoin_farm":0,
+  "booze_generator":0,
+  "generator":0,
+  "heating":0,
+  "illumination":0,
+  "intelligence_center":0,
+  "lavatory":0,
+  "library":0,
+  "medstation":0,
+  "nutrition_unit":0,
+  "rest_space":0,
+  "scav_case":0,
+  "security":0,
+  "shooting_range":0,
+  "solar_power":0,
+  "stash":0,
+  "vents":0,
+  "water_collector":0,
+  "workbench":0
+}
